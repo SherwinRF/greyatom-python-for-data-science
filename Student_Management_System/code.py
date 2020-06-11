@@ -38,9 +38,6 @@ mathematics = {'Geoffrey Hinton':78,'Andrew Ng':95,'Sebastian Raschka':65,'Yoshu
 topper = max(mathematics,key = mathematics.get)
 print(topper)
 
-# Given string
-
-
 # Create variable first_name 
 first_name = topper.split()[1]
 # Create variable Last_name and store last two element in the list
@@ -53,5 +50,3 @@ print(full_name)
 certificate_name = full_name.upper()
 print(certificate_name)
 # Code ends here
-
-
