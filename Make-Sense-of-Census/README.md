@@ -5,6 +5,6 @@
 
 ### Learnings from the project
 
- Learnt NumPy operations, Data Wraggling
+ Learnt NumPy Operations and Data Wrangling using Python
 
 
